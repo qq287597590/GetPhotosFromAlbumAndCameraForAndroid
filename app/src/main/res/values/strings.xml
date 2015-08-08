@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">getPhotosForAndroid</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- chose image view -->
+    <string name="chose_image_confirm">确定</string>
+    <string name="chose_image_activity">选择图片</string>
+    <string name="chose_image_scan">浏览图片</string>
+
+    <string name="network_error">喔喔，网络出现了点问题</string>
+    <string name="nomoredata_notice">亲，已经到底了，没有更多的数据</string>
+    <string name="emptydata_notice">网络有问题，当前未加载任何数据</string>
+
+    <string name="post_comment">发表评论</string>
+    <string name="ten_thousand">万</string>
+</resources>
